@@ -1,3 +1,4 @@
 new feature : touch pad
 new feature : scroll button
 all done
+conflict 2
