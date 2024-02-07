@@ -2,3 +2,5 @@ new feature : touch pad
 new feature : scroll button
 all done
 conflict 2
+or erase the conflict correction code and write something completely different.
+
